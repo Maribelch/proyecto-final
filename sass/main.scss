@@ -32,108 +32,31 @@
     background-image: url(../img/parallax-2.jpg);background-size: cover;height: 800px; }
 .pregunta h1{width: 50%;color: #fff;font-size: 7em; font-weight: bold;margin-left: 26%;margin-top: 23%;
     }
-/*--------------------seccion--cinco---------------------------*/
-.instruccion h2 {
-    width: 50%;
-    margin-left:25%;
-    margin-top: 15%;
-    font-size: 2em;
-   font-weight: bold;
-}
-.instruccion p {
-    width: 50%;
-    margin-left:25%;
-    font-size: 20px; 
-}
-.taza{
-    background-color:#F5EB91 ;
-    height: 800px;
-}
-.taza img{
-    margin-left: 25%;
-    margin-top:25%;
-}
-/*--------------------seccion--seis---------------------------*/
-.instruccion2 p {
-    width: 50%;
-    height: 600px;
-    margin-left:25%;
-    font-size: 20px; 
-}
-.instruccion2 h2 {
-    width: 50%;
-    margin-left:25%;
-    margin-top: 15%;
-    font-size: 2em;
-   font-weight: bold;
-}
-
-.taza2{
-    background-color:#8BCA3F ;
-    height: 800px;
-}
-.taza2 img{
-    margin-left: 10%;
-    margin-top:10%;
-}
-/*--------------------seccion--siete---------------------------*/
-.instruccion3 h2 {
-    width: 50%;
-    margin-left:25%;
-    margin-top: 15%;
-    font-size: 2em;
-   font-weight: bold;
-}
-.instruccion3 p {
-    width: 50%;
-     height: 600px;
-    margin-left:25%;
-    font-size: 20px; 
-}
-.taza3{
-   background-color:#FFA7C0;
-    height: 800px;
-}
-.taza3 img{
-    margin-left: 20%;
-    margin-top:20%;
-}
+/*--------------------seccion--cinco--------amarillo-------------------*/
+.instruccion h2 { width: 50%;margin-left:25%; margin-top: 15%;font-size: 2em;font-weight: bold;}
+.instruccion p { width: 50%;margin-left:25%;font-size: 20px; }
+.taza{ background-color:#F5EB91 ; height: 800px;}
+.taza img{margin-left: 25%;margin-top:25%;}
+/*----------cionco----------verde---------------------------*/
+.instruccion2 p {width: 50%;height: 600px;margin-left:25%;font-size: 20px; }
+.instruccion2 h2 { width: 50%; margin-left:25%;margin-top: 15%;font-size: 2em;font-weight: bold;}
+.taza2{ background-color:#8BCA3F;height: 800px;}
+.taza2 img{margin-left: 10%;margin-top:10%;}
+/*-------cinco-------------rosa---------------------------*/
+.instruccion3 h2 {width: 50%;margin-left:25%;margin-top: 15%;font-size: 2em;font-weight: bold;}
+.instruccion3 p { width: 50%;  height: 600px; margin-left:25%;font-size: 20px;}
+.taza3{background-color:#FFA7C0; height: 800px;}
+.taza3 img{margin-left: 20%;margin-top:20%;}
 /*--------------*/
-.campos h1{
-    position: absolute;
-    bottom: 50%;
-    left:20%;
-    color: #fff;
-    font-size: 8em;
-   font-weight: bold;
-    
-}
-.plomo {
-   background-color: #393335;
-    height: 150px;
-    
-}
-.plomo img{
-    margin-left: 10%;
-    margin-top:1%;
-}
-.plomo p{
-    position: absolute;
-    color:#5A5254;
-    left: 20%;
-    bottom: 20%;
-    font-size: 1.3em;
-  
-}
-.paquete p {
-    font-size: 18px;
-    width: 50%;
-    
-}
-.izquierda {
-    margin-left: 5%;
-}
-
+/*-------------------seccion---seis--------------------*/
+.campos h1{position: absolute; bottom: 50%; left:20%; color: #fff;font-size: 8em;font-weight: bold;}
+/*-----------------seccion---siente----------------*/
+.paquete p { font-size: 18px;width: 50%;}
+.izquierda {margin-left: 5%;}
+/*-------------------footer--------------------*/
+.plomo { background-color: #393335;height: 150px;}
+.plomo img{ margin-left: 10%; margin-top:1%;}
+.plomo p{ position: absolute; color:#5A5254;left: 20%;bottom: 20%;font-size: 1.3em;}
 
 @media screen and (max-width: 768px){
   
