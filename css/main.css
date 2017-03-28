@@ -1,4 +1,112 @@
-div {
-  border: 4px solid #000; }
+* {
+  border: 1px solid #000; }
+
+.hamburguesa {
+  position: absolute;
+  margin-left: 90%;
+  margin-top: 4%;
+  width: 60px;
+  font-size: 50px;
+  color: #fff; }
+
+.logo {
+  position: absolute;
+  bottom: 266px;
+  margin-left: 30%; }
+
+.logo-nombre {
+  position: absolute;
+  bottom: 553px;
+  margin-left: 8%;
+  width: 9%; }
+
+.pasion {
+  background-image: url(../img/parallax-3.jpg);
+  background-size: cover;
+  height: 800px; }
+
+.nuestra {
+  color: #fff;
+  width: 50%;
+  font-size: 6em;
+  font-weight: bold;
+  margin-top: 15%;
+  margin-left: 25%; }
+
+.parrafo {
+  color: #fff;
+  width: 54%;
+  font-size: 2em;
+  margin-left: 25%; }
+
+.colores {
+  width: 100%;
+  margin-top: 5%; }
+
+.color {
+  margin: 1%; }
+
+.rosa {
+  color: #F0838E;
+  font-weight: bold;
+  font-size: 3.5em; }
+
+.color p {
+  font-size: 1.5em; }
+
+.chica p {
+  position: absolute;
+  bottom: 55%;
+  left: 10%;
+  color: #fff;
+  font-size: 1.5em; }
+
+.cafe p {
+  position: absolute;
+  width: 75%;
+  bottom: 40%;
+  left: 15%;
+  color: #fff;
+  font-size: 1.5em; }
+
+.el {
+  top: 55%;
+  text-align: center; }
+
+.bolsita p {
+  position: absolute;
+  width: 75%;
+  bottom: 35%;
+  left: 20%;
+  color: #fff;
+  font-size: 1.5em; }
+
+.infusion p {
+  position: absolute;
+  width: 35%;
+  bottom: 35%;
+  left: 25%;
+  color: #fff;
+  font-size: 1.5em; }
+
+.pregunta {
+  background-image: url(../img/parallax-2.jpg);
+  background-size: cover;
+  height: 800px; }
+
+.pregunta h1 {
+  width: 50%;
+  color: #fff;
+  font-size: 7em;
+  font-weight: bold;
+  margin-left: 26%;
+  margin-top: 23%; }
+
+.taza {
+  background-color: #F5EB91; }
+
+.taza img {
+  margin-left: 15%;
+  margin-top: 10%; }
 
 /*# sourceMappingURL=main.css.map */
