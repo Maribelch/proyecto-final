@@ -8,13 +8,23 @@
   height: 800px; }
 
 .logo {
-  margin-top: 12%;
+  margin-top: 17%;
   margin-left: 12%; }
 
 .logo-nombre {
-  margin-bottom: 350px;
-  margin-left: 8%;
+  margin-bottom: 15%;
+  margin-left: 9%;
   width: 9%; }
+
+.circulo {
+  top: 45%;
+  right: 23%;
+  position: relative; }
+
+.flecha {
+  position: relative;
+  top: 50%;
+  right: 26.3%; }
 
 /*--------------------seccion--uno---------------------------*/
 .pasion {
@@ -177,8 +187,8 @@
   height: 800px; }
 
 .taza3 img {
-  margin-left: 20%;
-  margin-top: 20%; }
+  margin-left: 15%;
+  margin-top: 15%; }
 
 /*--------------*/
 /*-------------------seccion---seis--------------------*/
@@ -213,5 +223,8 @@
   left: 20%;
   bottom: 20%;
   font-size: 1.3em; }
+
+.arri {
+  font-size: 50px; }
 
 /*# sourceMappingURL=main.css.map */

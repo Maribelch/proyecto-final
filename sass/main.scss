@@ -4,8 +4,10 @@
 
 /*----------header---------------------------heraddeer----*/
 .tea{background-image: url(../img/parallax-1.jpg);background-size: cover;height: 800px;}
-.logo{ margin-top: 12%;margin-left: 12%;}
-.logo-nombre{ margin-bottom: 350px;margin-left: 8%;width: 9%;}
+.logo{ margin-top: 17%;margin-left: 12%;}
+.logo-nombre{ margin-bottom:15%;margin-left: 9%;width: 9%;}
+.circulo{ top:45%; right:23%; position: relative;}
+.flecha{position: relative; top: 50%; right:26.3%;}
 /*--------------------seccion--uno---------------------------*/
 .pasion{background-image: url(../img/parallax-3.jpg);background-size: cover;height: 800px; 
 }
@@ -46,7 +48,7 @@
 .instruccion3 h2 {width: 50%;margin-left:25%;margin-top: 15%;font-size: 2em;font-weight: bold;}
 .instruccion3 p { width: 50%;  height: 600px; margin-left:25%;font-size: 20px;}
 .taza3{background-color:#FFA7C0; height: 800px;}
-.taza3 img{margin-left: 20%;margin-top:20%;}
+.taza3 img{margin-left:15%;margin-top:15%;}
 /*--------------*/
 /*-------------------seccion---seis--------------------*/
 .campos h1{position: absolute; bottom: 50%; left:20%; color: #fff;font-size: 8em;font-weight: bold;}
@@ -61,3 +63,9 @@ bottom: 20%;font-size: 1.3em;}
 @media screen and (max-width: 768px){
   
 }
+.arri{
+  font-size: 50px; 
+
+}
+
+
